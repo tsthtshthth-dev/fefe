@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pix</string>
+    
+    <!-- Auth -->
+    <string name="welcome_to_pix">مرحباً بك في Pix</string>
+    <string name="create_account">إنشاء حساب</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="already_have_account">لديك حساب بالفعل؟</string>
+    <string name="dont_have_account">ليس لديك حساب؟</string>
+    
+    <!-- Main -->
+    <string name="home">الرئيسية</string>
+    <string name="discover">اكتشف</string>
+    <string name="create">إنشاء</string>
+    <string name="inbox">الرسائل</string>
+    <string name="profile">الملف الشخصي</string>
+    
+    <!-- Video -->
+    <string name="like">إعجاب</string>
+    <string name="comment">تعليق</string>
+    <string name="share">مشاركة</string>
+    <string name="follow">متابعة</string>
+    <string name="following">متابع</string>
+    <string name="followers">المتابعون</string>
+    <string name="likes">الإعجابات</string>
+    <string name="videos">الفيديوهات</string>
+    
+    <!-- Camera -->
+    <string name="record">تسجيل</string>
+    <string name="stop_recording">إيقاف التسجيل</string>
+    <string name="flip_camera">تبديل الكاميرا</string>
+    <string name="flash">الفلاش</string>
+    <string name="timer">المؤقت</string>
+    <string name="effects">التأثيرات</string>
+    <string name="filters">الفلاتر</string>
+    <string name="next">التالي</string>
+    <string name="post">نشر</string>
+    <string name="caption">التعليق</string>
+    <string name="add_caption">أضف تعليقاً...</string>
+    
+    <!-- Profile -->
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="settings">الإعدادات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="bio">النبذة الشخصية</string>
+    <string name="website">الموقع الإلكتروني</string>
+    
+    <!-- Common -->
+    <string name="loading">جاري التحميل...</string>
+    <string name="error">خطأ</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="ok">موافق</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="search">البحث</string>
+    <string name="no_internet">لا يوجد اتصال بالإنترنت</string>
+    
+    <!-- Permissions -->
+    <string name="camera_permission_required">يتطلب التطبيق إذن الكاميرا</string>
+    <string name="microphone_permission_required">يتطلب التطبيق إذن الميكروفون</string>
+    <string name="storage_permission_required">يتطلب التطبيق إذن التخزين</string>
+    <string name="grant_permission">منح الإذن</string>
+    
+    <!-- Settings -->
+    <string name="account">الحساب</string>
+    <string name="privacy">الخصوصية</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="content_and_display">المحتوى والعرض</string>
+    <string name="support_and_about">الدعم ومعلومات التطبيق</string>
+    <string name="danger_zone">المنطقة الخطرة</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="account_privacy">خصوصية الحساب</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="blocked_users">المستخدمون المحظورون</string>
+    <string name="private_account">حساب خاص</string>
+    <string name="who_can_message_you">من يمكنه مراسلتك</string>
+    <string name="who_can_comment">من يمكنه التعليق على فيديوهاتك</string>
+    <string name="push_notifications">الإشعارات الفورية</string>
+    <string name="likes_and_comments">الإعجابات والتعليقات</string>
+    <string name="new_followers">المتابعون الجدد</string>
+    <string name="auto_play_videos">تشغيل الفيديوهات تلقائياً</string>
+    <string name="data_saver">توفير البيانات</string>
+    <string name="language">اللغة</string>
+    <string name="help_center">مركز المساعدة</string>
+    <string name="report_problem">الإبلاغ عن مشكلة</string>
+    <string name="about">حول التطبيق</string>
+    <string name="terms_of_service">شروط الخدمة</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="delete_account">حذف الحساب</string>
+    
+    <!-- Settings Options -->
+    <string name="everyone">الجميع</string>
+    <string name="friends">الأصدقاء</string>
+    <string name="no_one">لا أحد</string>
+    <string name="followers">المتابعون</string>
+    <string name="following">المتابَعون</string>
+    
+    <!-- Confirmation Messages -->
+    <string name="logout_confirmation">هل أنت متأكد من تسجيل الخروج؟</string>
+    <string name="delete_account_confirmation">هل أنت متأكد من حذف حسابك؟ لا يمكن التراجع عن هذا الإجراء.</string>
+    <string name="confirm">تأكيد</string>
+    
+    <!-- Success Messages -->
+    <string name="settings_saved">تم حفظ الإعدادات بنجاح</string>
+    <string name="profile_updated">تم تحديث الملف الشخصي بنجاح</string>
+    <string name="password_changed">تم تغيير كلمة المرور بنجاح</string>
+    
+    <!-- Search -->
+    <string name="search_hint">البحث عن المستخدمين والفيديوهات والهاشتاغ</string>
+    <string name="clear_search">مسح البحث</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="no_results_found">لا توجد نتائج لـ "%1$s"</string>
+    <string name="search_error">حدث خطأ أثناء البحث</string>
+    <string name="loading_error">حدث خطأ أثناء التحميل</string>
+    
+    <!-- Notifications -->
+    <string name="clear_all">مسح الكل</string>
+    <string name="no_notifications">لا توجد إشعارات</string>
+    <string name="no_notifications_description">ستظهر إشعاراتك هنا عندما يتفاعل الآخرون مع محتواك</string>
+    
+    <!-- Video Upload -->
+    <string name="post_video">نشر فيديو</string>
+    <string name="video_description_hint">اكتب وصفاً لفيديوك...</string>
+    <string name="who_can_view">من يمكنه مشاهدة هذا الفيديو</string>
+    <string name="public">عام</string>
+    <string name="friends_only">الأصدقاء فقط</string>
+    <string name="private">خاص</string>
+    <string name="allow_others_to">السماح للآخرين بـ</string>
+    <string name="comment">التعليق</string>
+    <string name="duet">الديو</string>
+    <string name="stitch">الستيتش</string>
+    <string name="save_as_draft">حفظ كمسودة</string>
+    <string name="post">نشر</string>
+    <string name="posting">جاري الرفع...</string>
+    <string name="video_posted_successfully">تم رفع الفيديو بنجاح</string>
+    <string name="video_post_failed">فشل في رفع الفيديو</string>
+    <string name="draft_saved">تم حفظ المسودة</string>
+    <string name="no_video_to_upload">لا يوجد فيديو للرفع</string>
+    
+</resources>
